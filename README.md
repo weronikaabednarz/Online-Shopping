@@ -1,4 +1,4 @@
-#Online Shopping Annual Report 2023
+# Online Shopping Annual Report 2023
 
 Project subject: Analysis of annual online product sales performance.
 
@@ -27,13 +27,13 @@ Used database:
 
 ![1](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/database.jpg)
 
-Filtering and charts by using Pivot Tables:
-
-![2](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/PivotTable1.jpg)
-
-![3](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/PivotTable2.jpg)
-
 Annual sales performance report:
 
-![4](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/AnnualReport.jpg)
+![2](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/AnnualReport.jpg)
+
+Filtering and charts by using Pivot Tables:
+
+![3](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/PivotTable1.jpg)
+
+![4](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/PivotTable2.jpg)
 
