@@ -22,7 +22,8 @@ Acquired skills:
 - Creation of an Interactive Dashboard.
 
 Technologies used in the project: Microsoft Excel.
-Data imported from page: https://www.youtube.com/watch?v=gTK5rNhWJyA&list=PLRY-AYJzifh1p1YinaFw-VIqYYsPyRYi4
+
+Data imported from film description on page: https://www.youtube.com/watch?v=gTK5rNhWJyA&list=PLRY-AYJzifh1p1YinaFw-VIqYYsPyRYi4
 
 Used database:
 
