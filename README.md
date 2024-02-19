@@ -4,7 +4,8 @@ Project subject: Analysis of annual online product sales performance.
 
 This dataset contains details of users and their product orders.
 Including information such as:
-Index, Order ID, Customer ID, Gender, Age, Age Group, Date, Month, Status, Shop, SKU, Category, Size, Quantity, Currency, Amount, ship-state, ship-postal-code, ship-country, B2B
+
+Index, Order ID, Customer ID, Gender, Age, Age Group, Date, Month, Status, Shop, SKU, Category, Size, Quantity, Currency, Amount, ship-state, ship-postal-code, ship-country, B2B.
 
 Pivot tables provide answers to the following questions:
 1. Which month got the highest sales and orders?
