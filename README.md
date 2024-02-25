@@ -39,3 +39,14 @@ Filtering and charts by using Pivot Tables:
 
 ![4](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/PivotTable2.jpg)
 
+Add record function:
+
+![5](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/do_you_want_to_add_record.jpg)
+
+![6](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/enter_data.jpg)
+
+Delete record function:
+
+![7](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/delete_record_by_index.jpg)
+
+![8](https://github.com/weronikaabednarz/Online-Shopping/blob/main/images/failed_deleting.jpg)
